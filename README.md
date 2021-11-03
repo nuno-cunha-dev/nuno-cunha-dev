@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at [Jumia](https://group.jumia.com/)
 
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **PHP, Symfony, Javascript, Node.js**
+- 💬 Ask me about **PHP, Symfony, Javascript, Node.js, Typescript**
 
 - 📫 How to reach me **nunorafael_6@hotmail.com**
 
