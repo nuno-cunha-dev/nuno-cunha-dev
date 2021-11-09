@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Jumia](https://group.jumia.com/)
 
-- 💬 Ask me about **PHP, Symfony, Javascript, Node.js, Typescript**
+- 💬 Ask me about **PHP, Symfony, Javascript, Node.js, Typescript, Go**
 
 - 📫 How to reach me **nunorafael_6@hotmail.com**
 
