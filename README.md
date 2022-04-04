@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuno Cunha</h1>
 <h3 align="center">A passionate backend developer from Portugal</h3>
 
-- 🔭 I’m currently working at [Jumia](https://group.jumia.com/)
+- 🔭 I’m currently working at [SWORD Health](https://swordhealth.com/)
 
 - 💬 Ask me about **PHP, Symfony, Javascript, Node.js, Typescript, Go**
 
