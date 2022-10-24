@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuno Cunha</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
+<h3 align="center">A passionate software engineer from Portugal</h3>
 
-- 🔭 I’m currently working at [SWORD Health](https://swordhealth.com/)
+- 🔭 I’m currently working at [Mava](https://www.mava.app/)
 
-- 💬 Ask me about **PHP, Symfony, Javascript, Node.js, Typescript, Go**
+- 💬 Ask me about **Javascript, Node.js, Typescript, Go**
 
 - 📫 How to reach me **nunorafael_6@hotmail.com**
 
