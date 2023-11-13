@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuno Cunha</h1>
 <h3 align="center">A passionate software engineer from Portugal</h3>
 
-- 🔭 I’m currently working at [Mava](https://www.mava.app/)
+- 🔭 I’m currently working at [Broadvoice](https://www.broadvoice.com/)
 
 - 💬 Ask me about **Javascript, Node.js, Typescript, Go**
 
